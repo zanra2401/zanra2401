@@ -1,5 +1,10 @@
-## Hi there 👋
-
+$$
+\begin{bmatrix}
+  1 & 1 & 1 \\
+  1 & 1 & 1 \\
+  1 & 1 & 1 \\
+\end{bmatrix}
+$$
 <!--
 **zanra2401/zanra2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
