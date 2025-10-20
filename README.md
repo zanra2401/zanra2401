@@ -1,4 +1,14 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zanra2401&show_icons=true)
+$$
+\begin{bmatrix}
+1 & 1 & 1 & 0 & 0 & 1 & 1 & 1 \\
+1 & 0 & 1 & 0 & 0 & 0 & 0 & 1 \\
+1 & 0 & 1 & 0 & 0 & 0 & 0 & 1 \\
+1 & 1 & 1 & 0 & 0 & 1 & 1 & 1 \\
+1 & 0 & 0 & 0 & 0 & 0 & 0 & 1 \\
+1 & 0 & 0 & 0 & 0 & 0 & 0 & 1 \\
+1 & 0 & 0 & 0 & 0 & 1 & 1 & 1
+\end{bmatrix}
+$$
 <!--
 **zanra2401/zanra2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
