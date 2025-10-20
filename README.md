@@ -1,4 +1,4 @@
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=zanra2401&show_icons=true)
 <!--
 **zanra2401/zanra2401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
